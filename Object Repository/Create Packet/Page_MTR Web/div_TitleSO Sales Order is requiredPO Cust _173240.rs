@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TitleSO Sales Order is requiredPO Cust _173240</name>
+   <tag></tag>
+   <elementGuidId>dd0d2660-3ed3-4f5f-af6f-264726105d4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='packet-details']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4feee082-adcb-4cc7-80a4-e439c30f2f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-[320px] flex-col rounded-[10px] border border-neutral-300 bg-white px-[5px] py-[8px] shadow</value>
+      <webElementGuid>e38df879-9636-46f7-9e91-e69ab341172b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TitleS/O #Sales Order is requiredPO #Cust PO #Customer PO # is required</value>
+      <webElementGuid>6b5a9854-742d-4138-9b5f-c8dc7c9bffc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;packet-details&quot;)/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex w-[320px] flex-col rounded-[10px] border border-neutral-300 bg-white px-[5px] py-[8px] shadow&quot;]</value>
+      <webElementGuid>3afa7f7d-7b45-4641-bab4-95aa05d9fa22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='packet-details']/div[2]/div</value>
+      <webElementGuid>e857645e-6e93-476a-a9b3-85c92553cda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::div[2]</value>
+      <webElementGuid>d0c4133d-6fab-4122-941e-048309a3a40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[20]</value>
+      <webElementGuid>c898b17b-854c-460f-9c54-83c6fcba50d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save progress'])[1]/preceding::div[21]</value>
+      <webElementGuid>bfe691c6-75de-44f4-b4c1-0f0191d0befe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>1fc0cbc8-1189-4425-b9ab-741a0e8c7a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TitleS/O #Sales Order is requiredPO #Cust PO #Customer PO # is required' or . = 'TitleS/O #Sales Order is requiredPO #Cust PO #Customer PO # is required')]</value>
+      <webElementGuid>59e1f741-3421-4856-86f8-6b6bf38c0b66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

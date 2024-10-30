@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11796187-00</name>
+   <tag></tag>
+   <elementGuidId>4ad3308e-8165-42b2-8605-89b5ca9476f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='downshift-:r6v:-item-0']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>deba3069-1915-4c53-8997-dc01665c3505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11796187-00</value>
+      <webElementGuid>5e8f223e-8230-4e69-a34f-941495cc58d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-:r6v:-item-0&quot;)/div[@class=&quot;flex flex-col&quot;]/span[1]</value>
+      <webElementGuid>a3b6d7b7-8a01-4f51-950a-3a179d86af8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='downshift-:r6v:-item-0']/div/span</value>
+      <webElementGuid>14333ec7-3e0a-49a3-9cba-4fefe308ea4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[3]</value>
+      <webElementGuid>c2de65d5-d0c1-4671-b1ae-f0fd0608a4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as draft'])[1]/following::span[3]</value>
+      <webElementGuid>e07ffb5d-3dde-4c49-8b7e-eb3d8abade52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>98f12192-0290-4c1b-afe2-43d3ddb2c650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11796187-00' or . = '11796187-00')]</value>
+      <webElementGuid>ac688f57-4886-4f06-b10c-22bc676801ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

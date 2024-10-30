@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11796187-00</name>
+   <tag></tag>
+   <elementGuidId>3cf2d00d-03e5-4e7a-b367-7acbcd068093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/katalon-div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25a9fb14-e01c-47c2-ae45-d69669595567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11796187-00</value>
+      <webElementGuid>649d6a08-587b-4a99-a98d-4ddc236f0167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-:r6v:-item-0&quot;)/div[@class=&quot;flex flex-col&quot;]/span[1]</value>
+      <webElementGuid>e7134524-93a2-4f27-9942-f63718f95a1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='downshift-:r6v:-item-0']/div/span</value>
+      <webElementGuid>b341aa4b-96eb-4ec6-8058-0a7f1d996004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[3]</value>
+      <webElementGuid>d41b833c-3361-4b73-893a-cd8b2bc02f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as draft'])[1]/following::span[3]</value>
+      <webElementGuid>51a4a926-0892-417c-96d3-f902acb4f6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11796187-00']/parent::*</value>
+      <webElementGuid>686b7706-a45f-4200-a9ae-7b7bddac855b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>bbe2c3d0-ca7b-478d-9acf-e49c15092ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11796187-00' or . = '11796187-00')]</value>
+      <webElementGuid>08b41ae6-7ddb-46b0-8f9e-b76ef3f1242a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

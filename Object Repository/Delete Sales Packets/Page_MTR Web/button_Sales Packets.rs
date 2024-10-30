@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sales Packets</name>
+   <tag></tag>
+   <elementGuidId>ad77015a-60c9-41fd-b5dd-d0591d913df1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>464faf66-8897-4262-8f5b-876cc9a62364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b77f2ca-5c3e-4975-b7e9-f174fc67538c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex select-none items-center justify-center text-nowrap border border-solid text-center outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent focus:border-transparent px-[8px] py-[3px] font-normal data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 rounded-[5px] text-white focus:text-white</value>
+      <webElementGuid>d0b6dbb7-8a4f-4d45-8876-e09ad8827f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d37841f8-862b-4747-843b-b0d5eaaab118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales Packets</value>
+      <webElementGuid>9352bf22-33df-4900-9cb5-8fcfe5c328d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex size-full min-h-screen flex-col bg-neutral-100&quot;]/div[@class=&quot;flex flex-col items-center justify-center bg-navy-main md:flex-row&quot;]/div[@class=&quot;flex w-full max-w-[1650px] items-center justify-between space-x-6 px-[10px] py-[12px]&quot;]/div[@class=&quot;flex flex-row space-x-6&quot;]/button[@class=&quot;group flex select-none items-center justify-center text-nowrap border border-solid text-center outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent focus:border-transparent px-[8px] py-[3px] font-normal data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 rounded-[5px] text-white focus:text-white&quot;]</value>
+      <webElementGuid>680cac04-0c33-4eb2-8dd1-3afe6597917f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>837e0948-678f-4476-afb8-18ea6b9a9096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>f8dd9c3d-0935-4f3c-8d3f-f92c3f3b82b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marben Dimson'])[1]/preceding::button[1]</value>
+      <webElementGuid>25ebafd0-0190-4f71-a102-87b2857eae2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[4]</value>
+      <webElementGuid>c965fa52-e1d7-4fed-9154-b8d5b60319f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales Packets']/parent::*</value>
+      <webElementGuid>e2d05ab4-b154-4693-8f7f-c9d97a472513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>357839d6-c94a-4f9e-922f-47012c8c2f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sales Packets' or . = 'Sales Packets')]</value>
+      <webElementGuid>b193b97e-58aa-4b42-90a9-28bdaacc698a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
