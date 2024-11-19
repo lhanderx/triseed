@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test 1</name>
+   <tag></tag>
+   <elementGuidId>0c393848-f3f9-472e-b77f-77932cad2a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[8]/div[2]/div[2]/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1a877d2-a141-48d1-9f92-f306630943df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_container_1ra9z_5</value>
+      <webElementGuid>7b4a0d33-8a77-4fda-9a8f-c8ffb7187d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test #1</value>
+      <webElementGuid>4dbe1936-eebd-41d2-93e1-3e354c694ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;rbc-month-row&quot;]/div[@class=&quot;rbc-row-content&quot;]/div[@class=&quot;rbc-addons-dnd-row-body&quot;]/div[@class=&quot;rbc-row&quot;]/div[@class=&quot;rbc-row-segment&quot;]/div[@class=&quot;rbc-event important&quot;]/div[@class=&quot;rbc-addons-dnd-resizable&quot;]/div[@class=&quot;rbc-event-content&quot;]/div[@class=&quot;_container_1ra9z_5&quot;]</value>
+      <webElementGuid>dcce94c4-08c2-43a8-934b-c149b05e00bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[8]/div[2]/div[2]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>3ee90c03-422c-4a62-9eb7-3d1884553c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 2'])[1]/following::div[49]</value>
+      <webElementGuid>4d038a98-7ed5-4ca0-9c82-0dae88ba7aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign'])[1]/following::div[54]</value>
+      <webElementGuid>25db6a76-fc2b-4af2-a8c8-8c7456ff81f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[5]</value>
+      <webElementGuid>004282d3-5c73-456e-afca-c3792d71e6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[2]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>97da4c5b-5f41-458e-8d0f-3eafa7a59bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test #1' or . = 'Test #1')]</value>
+      <webElementGuid>003f2057-fdd9-48fc-bdff-19a818dffbd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

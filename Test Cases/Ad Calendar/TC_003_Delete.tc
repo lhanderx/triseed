@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>new sample</name>
+   <name>TC_003_Delete</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>5eb79116-b1a6-49ef-983a-fb927bd5c3dc</testCaseGuid>
+   <testCaseGuid>55eb026e-dbc7-4390-9adf-f61b9f9fa87e</testCaseGuid>
 </TestCaseEntity>

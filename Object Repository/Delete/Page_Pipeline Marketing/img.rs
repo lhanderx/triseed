@@ -3,14 +3,15 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>96628c9e-671a-4fbc-a3ac-7bdf6454749f</elementGuidId>
+   <elementGuidId>74a981f4-5a34-4f38-9df7-ff8036066874</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[9]/div[4]/button[1]/img</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[9]/div[4]/button[2]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +23,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cdb5c778-a2b8-48f1-98a7-4ae6b0713889</webElementGuid>
+      <webElementGuid>11f60eb3-4fd4-4f02-b22c-f62f1803a3c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/assets/icons/edit.png</value>
-      <webElementGuid>3a82fdd3-02e1-4888-8716-1db1c479d7d6</webElementGuid>
+      <value>/assets/icons/delete.png</value>
+      <webElementGuid>aeca1aa7-3f1f-466e-9ed2-0ddbcf0b9900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>edit button</value>
-      <webElementGuid>dfec4435-541a-48c4-8d88-652a14eaefb1</webElementGuid>
+      <value>delete button</value>
+      <webElementGuid>a421fce3-f56c-4947-91d7-9a1115a9dcf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,38 +47,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;_editor_1ozih_1&quot;]/div[@class=&quot;_buttons_1ozih_78&quot;]/button[@class=&quot;_button_1ozih_78&quot;]/img[1]</value>
-      <webElementGuid>8b9a3d87-1167-4eed-9280-8fdfeb8d3ff6</webElementGuid>
+      <webElementGuid>64632850-51ca-431a-b4f7-5b11f536586e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[11]/div[4]/button/img</value>
-      <webElementGuid>10e72edd-f030-4fb9-91f9-12bffe3038b2</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[9]/div[4]/button[2]/img</value>
+      <webElementGuid>02120e07-822d-4d56-9e03-85e27556a9ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>(//img[@alt='edit button'])[5]</value>
-      <webElementGuid>5533d811-40a8-4ae0-9325-6fd110066519</webElementGuid>
+      <value>(//img[@alt='delete button'])[4]</value>
+      <webElementGuid>ea51c9b6-33e2-4242-93d7-4031bb04357e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[11]/div[4]/button/img</value>
-      <webElementGuid>9de7e35e-578e-4187-8479-589a9b551e05</webElementGuid>
+      <value>//div[9]/div[4]/button[2]/img</value>
+      <webElementGuid>f95d1c58-d497-4c05-b697-d23061b8a02a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/assets/icons/edit.png' and @alt = 'edit button']</value>
-      <webElementGuid>1f07e76c-864d-492c-8c38-25227528b8de</webElementGuid>
+      <value>//img[@src = '/assets/icons/delete.png' and @alt = 'delete button']</value>
+      <webElementGuid>742a0d52-eaa8-493c-8beb-e078dcbe5759</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

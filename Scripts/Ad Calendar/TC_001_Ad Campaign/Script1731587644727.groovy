@@ -56,7 +56,7 @@ WebUI.sendKeys(fileInput, filePath)
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '11202024')
+WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '20122024')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/textarea_Notes_note'), 'test')
 
