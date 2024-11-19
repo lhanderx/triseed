@@ -16,9 +16,3 @@ build
 .project
 
 .cache
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
-.cache/

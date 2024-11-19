@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Delete Sales Packets</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a1dcc3da-ca5a-444d-bbbc-f49c4e32a659</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag and drop or click to upload a file</name>
+   <tag></tag>
+   <elementGuidId>fc813f91-f2ee-4375-9f47-3fd96a0568c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;radix-:r2h:&quot;]/div/div[1]/div[1]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.file-upload-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10c3f15a-9269-4165-85d4-944b33bf6faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file-upload-container</value>
+      <webElementGuid>7b7928de-21ed-45d3-b8f9-9d12e55a4855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop or click to upload a file</value>
+      <webElementGuid>98640ea4-a337-4afc-b671-c92ca820211e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r3h:&quot;)/div[@class=&quot;add-campaign-container&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;add-campaign-form&quot;]/div[@class=&quot;file-upload-container&quot;]</value>
+      <webElementGuid>cd951d52-8870-4cf5-8a96-6a4b3743042f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r3h:']/div/div/div/div[4]</value>
+      <webElementGuid>32cd66bd-73b3-4e90-9c40-85e457a36247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement'])[1]/following::div[2]</value>
+      <webElementGuid>d9fb3dee-93e6-45e7-81e2-dcf0fdb67cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/following::div[3]</value>
+      <webElementGuid>376194d9-9c7b-4c19-a1cd-1d4fee404d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad Type'])[1]/preceding::div[1]</value>
+      <webElementGuid>630574a9-570b-4970-bb8a-e45a8cc0f000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[4]</value>
+      <webElementGuid>b36b533d-712a-47d0-8d8f-b4850aac7905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag and drop or click to upload a file' or . = 'Drag and drop or click to upload a file')]</value>
+      <webElementGuid>935d12c5-2148-449c-92df-f2ce406db165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

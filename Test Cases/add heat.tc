@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Test automation at MTR</description>
-   <name>add heat</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>39305c53-f7f1-4fea-b79f-e04922f85b10</testCaseGuid>
-</TestCaseEntity>

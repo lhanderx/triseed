@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Drag and drop or click to upload a file</name>
+   <tag></tag>
+   <elementGuidId>59c96e22-b2ff-42d1-b84c-be11ecbe949b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.file-upload-container > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:r75:']/div/div/div/div[4]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>703825c3-b7d0-455f-b165-2e501727e7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ad_img</value>
+      <webElementGuid>8e419afc-7a32-4d50-b93a-7e66e610e7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop or click to upload a file</value>
+      <webElementGuid>c7ff09c5-ba4c-401c-9842-50e5bb2bc476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r75:&quot;)/div[@class=&quot;add-campaign-container&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;add-campaign-form&quot;]/div[@class=&quot;file-upload-container&quot;]/label[1]</value>
+      <webElementGuid>193f5f63-0e04-4fd8-896d-39701000d524</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r75:']/div/div/div/div[4]/label</value>
+      <webElementGuid>4a4f47c8-6146-4b68-877b-407018d6876f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement'])[1]/following::label[1]</value>
+      <webElementGuid>99088466-4539-4ee2-b0eb-947325257bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/following::label[2]</value>
+      <webElementGuid>d554020e-58a1-4384-af46-cd64e0634797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad Type'])[1]/preceding::label[1]</value>
+      <webElementGuid>e5eeeac4-a44d-4e73-a33c-c7f8171f3996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date:'])[1]/preceding::label[2]</value>
+      <webElementGuid>cbee44f3-32ff-4c15-ae89-d1f121c4094f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drag and drop or click to upload a file']/parent::*</value>
+      <webElementGuid>55fbd77a-3a18-4417-b960-d78fdf6ffc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>a243761c-434d-4a0f-9126-c795b6ba599b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Drag and drop or click to upload a file' or . = 'Drag and drop or click to upload a file')]</value>
+      <webElementGuid>07f64636-42ef-477f-a353-33dd813deffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r2h:']/div/div/div/div[4]/label</value>
+      <webElementGuid>b9f38b5e-6820-4472-9482-01978f2de353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Test purposes only.'])[1]/following::label[2]</value>
+      <webElementGuid>e1771ca4-e0ad-480a-a428-227635e6ad58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

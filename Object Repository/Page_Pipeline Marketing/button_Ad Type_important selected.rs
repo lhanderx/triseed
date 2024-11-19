@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ad Type_important selected</name>
+   <tag></tag>
+   <elementGuidId>5ae8865f-fddb-4d0f-99d2-6adb3ba71c9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.important.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:r2h:']/div/div/div/div[5]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dd99682-add2-4cd3-9d10-8253f31b3a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>important selected</value>
+      <webElementGuid>2cdbe85e-ed23-4675-bff0-3572c0fa6372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r2h:&quot;)/div[@class=&quot;add-campaign-container&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;add-campaign-form&quot;]/div[5]/div[@class=&quot;ad-type-container&quot;]/button[@class=&quot;important selected&quot;]</value>
+      <webElementGuid>08fba4f7-3d52-4abf-bbfb-c27608da6e65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r2h:']/div/div/div/div[5]/div/button</value>
+      <webElementGuid>743bb790-907a-40a0-914b-e299944e5d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>4cac4145-84f9-46e1-9ee5-7c079a2f1ac5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
