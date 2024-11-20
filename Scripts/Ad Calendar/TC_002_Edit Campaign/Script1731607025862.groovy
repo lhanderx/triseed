@@ -23,8 +23,6 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
 
-WebUI.delay(10)
-
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (2)'), 'marben.dimson@porterpipe.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
@@ -42,6 +40,8 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/span_Ad Calendar (1)'))
 
+WebUI.scrollToElement(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), -50)
+
 WebUI.click(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/img'))
@@ -50,7 +50,11 @@ WebUI.clearText(findTestObject('Object Repository/Page_Pipeline Marketing/input_
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Title_title (2)'), 'Test')
 
+WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '21112024')
+
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Save (2)'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Pipeline Marketing/h2_Campaign Edited'))
+
+WebUI.click(findTestObject('Ad Campaign/Close btn'))
 

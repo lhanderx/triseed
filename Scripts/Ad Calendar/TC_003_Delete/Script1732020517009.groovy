@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
 
 WebUI.setText(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_loginfmt'), 'marben.dimson@porterpipe.com')
@@ -36,7 +38,9 @@ WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your accoun
 
 WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/a_Ad Calendar'))
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/div_Test'))
+WebUI.scrollToElement(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), -50)
+
+WebUI.click(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/button___button_1ozih_78'))
 

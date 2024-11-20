@@ -55,7 +55,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Co
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_URL Link_urlLink'), 'test.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate (1)'), '11262024')
+WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate (1)'), '26112024')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/textarea_Notes_note (1)'), 'test')
 

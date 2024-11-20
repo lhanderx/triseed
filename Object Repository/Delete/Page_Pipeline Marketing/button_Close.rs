@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-:r4r:']/div[2]/button</value>
+         <value>/html/body/div[5]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6683906a-1b52-40bc-988c-8c5170d20e2a</webElementGuid>
+      <webElementGuid>89dd6e87-2829-4eb5-b617-04a2d3f839cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 py-2 px-0</value>
-      <webElementGuid>4e4ef845-3267-4ffb-aedc-524a0d1c19e6</webElementGuid>
+      <webElementGuid>d8522e99-6208-4eb0-baf8-c44fd6df7cce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>72ef385e-df78-4735-9edf-a707183e6c66</webElementGuid>
+      <webElementGuid>1387e758-94b9-44cd-9014-4f76a842ebe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r4r:&quot;)/div[@class=&quot;_buttonContainer_mtc0p_19&quot;]/button[@class=&quot;inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 py-2 px-0&quot;]</value>
-      <webElementGuid>16b0e70a-1809-4f02-a5cb-8e8936b2c533</webElementGuid>
+      <webElementGuid>1b5747ad-8e7d-4090-9730-5f3790fd6acc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r4r:']/div[2]/button</value>
-      <webElementGuid>a68b5f38-21ce-4eb8-b8db-191badfc3845</webElementGuid>
+      <webElementGuid>2171071c-8b7d-485e-b27b-5a2609f3ef0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign successfully deleted'])[1]/following::button[1]</value>
-      <webElementGuid>7c4626e5-1a14-4dbe-8266-f99d748427ea</webElementGuid>
+      <webElementGuid>f17edd24-2cfc-4261-8bae-22e356921a8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>79e592c4-666f-4e54-becb-2b47cc4a87f0</webElementGuid>
+      <webElementGuid>7ebb67c1-bb39-4645-ac04-3b7addfeb937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::button[1]</value>
-      <webElementGuid>8505cf57-df08-450e-821c-2df204b2a61c</webElementGuid>
+      <webElementGuid>a37e3a6c-106a-4ea7-8c8e-05f225fb190e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>49ae5fc3-59a4-48af-be05-639fff01138f</webElementGuid>
+      <webElementGuid>cb7247ad-629b-4f7d-ad2b-fb2917fb4fe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/button</value>
-      <webElementGuid>53b99fd4-8af4-43f4-806c-95bde08f7b73</webElementGuid>
+      <webElementGuid>a03ae067-9e84-4d2d-8458-b7cc11f1a93d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>4d61529c-52b6-4cab-baf3-65dfef5cddc5</webElementGuid>
+      <webElementGuid>0b22fb81-0e98-4434-b2af-c8072007894c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +110,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r5n:']/div[2]/button</value>
-      <webElementGuid>a20aeeeb-6ba1-44f1-839d-e99683f31ce0</webElementGuid>
+      <webElementGuid>ddf401db-b499-4c08-b0b7-36a13dd300b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

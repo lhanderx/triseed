@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[11]/div[4]/button[2]</value>
+         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[9]/div[4]/button[2]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>22997722-2e80-49f2-b0f9-f959948e6fda</webElementGuid>
+      <webElementGuid>af346f30-5b57-4df0-a4a7-7eb8955a6c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_button_1ozih_78</value>
-      <webElementGuid>d5fabd3d-1c5f-49a3-957f-961c04e561ad</webElementGuid>
+      <webElementGuid>f7ced80a-2ad4-48d7-94d3-90c58b1b53b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;_editor_1ozih_1&quot;]/div[@class=&quot;_buttons_1ozih_78&quot;]/button[@class=&quot;_button_1ozih_78&quot;]</value>
-      <webElementGuid>bf2aa5c5-6004-4efe-9cd8-b5834ed365b4</webElementGuid>
+      <webElementGuid>a04e61ce-10d9-4014-9671-4288d60d876d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[11]/div[4]/button[2]</value>
-      <webElementGuid>75909315-1348-474a-a569-13672feb3b4a</webElementGuid>
+      <webElementGuid>bd72ea5b-13c6-4134-a987-38121ed66b5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ㅤ'])[5]/following::button[2]</value>
-      <webElementGuid>818719b9-5b8d-4b88-9da6-3e0e1e4ae10c</webElementGuid>
+      <webElementGuid>48f432b0-b9f9-4a9d-a7df-07ecbf2c44fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 5'])[1]/following::button[2]</value>
-      <webElementGuid>20324455-fc42-4452-89ee-b8ed41f905ef</webElementGuid>
+      <webElementGuid>cb9b88a8-2df7-4e6a-abc3-0f2126956bc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div[4]/button[2]</value>
-      <webElementGuid>1923bed0-3133-4b57-98b0-783aacf5b45f</webElementGuid>
+      <webElementGuid>da39cb49-2199-4638-9688-dd8d72123173</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
